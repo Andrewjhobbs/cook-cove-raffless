@@ -2,7 +2,6 @@ import discord
 import random
 import datetime
 import re
-import discord_token
 
 raffle_id = 1
 
