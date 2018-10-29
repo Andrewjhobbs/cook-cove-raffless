@@ -315,4 +315,4 @@ def raffle_winner(raffle: Raffle):
 
 
 # run the bot
-client.run(process.env.BOT_TOKEN)
+client.run(os.getenv('TOKEN'))
