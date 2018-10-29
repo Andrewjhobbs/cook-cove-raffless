@@ -1,1 +1,1 @@
-worker: node Raffle.py
+worker: python Raffle.py
